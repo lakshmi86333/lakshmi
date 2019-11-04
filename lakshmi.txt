@@ -1,3 +1,1 @@
 welcome to the banglore!
-git revert <name of bad commit>
-git commit -m “commit message”
