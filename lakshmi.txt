@@ -1,0 +1,4 @@
+welcome to the banglore!
+$ git checkout --filename 
+It will undo the changes in workspace(local machine)
+
